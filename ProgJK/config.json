@@ -1,0 +1,34 @@
+{
+  "window_size": {
+    "width": 1600,
+    "height": 900
+  },
+  "background_color": "#8ECAE6",
+  "font": {
+    "family": "Montserrat",
+    "size": 12,
+    "color": "#fb8500"
+  },
+  "button_style": {
+    "background_color": "#023047",
+    "text_color": "#FB8500",
+    "border_color": "#023047"
+  },
+  "text_input_style": {
+    "background_color": "#8ecae6",
+    "text_color": "#FB8500",
+    "border_color": "#023047"
+  },
+  "checkbox_style": {
+    "background_color": "#910A67",
+    "checkmark_color": "#fb8500",
+    "border_color": "#023047"
+  },
+  "main_field_placeholder": {
+    "text": "Поле с теорией либо практическими примерами"
+  },
+  "additional_field_placeholder": "Дополнительное поле",
+  "additional_field_height": 150,
+  "input_field_placeholder": "Введите данные",
+  "input_field_label": "Поле для ввода данных"
+}
